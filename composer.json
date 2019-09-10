@@ -2,7 +2,7 @@
 	"name": "elberos/telegram",
 	"type": "library",
 	"license": "Apache-2.0",
-	"description": "Elberos ORM",
+	"description": "Elberos Telegram",
 	"version": "1.1.0",
 	"authors": [
 	{
