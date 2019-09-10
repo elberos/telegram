@@ -1,0 +1,18 @@
+{
+	"name": "elberos/telegram",
+	"type": "library",
+	"license": "Apache-2.0",
+	"description": "Elberos ORM",
+	"version": "1.1.0",
+	"authors": [
+	{
+		"name": "Ildar Bikmamatov",
+		"email": "support@elberos.org"
+	}
+	],
+	"autoload": {
+		"psr-4": { "Elberos\\Telegram\\": "" }
+	},
+	"require": {
+	}
+}
